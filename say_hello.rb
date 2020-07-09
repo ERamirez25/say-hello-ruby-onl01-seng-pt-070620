@@ -7,4 +7,5 @@ puts "Hello, #{name}"
 end 
 
 def greeting(name = "Ruby programmer")
-puts hello, #
+puts "hello, #{name}"
+end 
