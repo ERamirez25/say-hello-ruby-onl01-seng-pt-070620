@@ -8,5 +8,6 @@ end
 
 def greeting(name = "Ruby programmer")
 puts "hello, #{name}"
-puts "name = Kent Breck"
 end 
+
+greeting()
